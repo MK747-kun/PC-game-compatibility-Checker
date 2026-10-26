@@ -1,0 +1,158 @@
+# Approximate relative gaming performance. GTX 1060 6GB = 100. Hand-curated estimates; edit freely.
+name,score
+geforce 210,3
+gt 710,3
+gt 730,7
+gt 1030,24
+gtx 650,11
+gtx 650 ti,17
+gtx 750,33
+gtx 750 ti,38
+gtx 760,45
+gtx 770,52
+gtx 780,65
+gtx 950,50
+gtx 960,62
+gtx 970,90
+gtx 980,110
+gtx 980 ti,140
+gtx 1050,55
+gtx 1050 ti,68
+gtx 1060 3gb,88
+gtx 1060 6gb,100
+gtx 1070,135
+gtx 1070 ti,155
+gtx 1080,175
+gtx 1080 ti,225
+gtx 1630,60
+gtx 1650,80
+gtx 1650 super,105
+gtx 1660,115
+gtx 1660 super,130
+gtx 1660 ti,135
+rtx 2060,160
+rtx 2060 super,175
+rtx 2070,185
+rtx 2070 super,205
+rtx 2080,230
+rtx 2080 super,245
+rtx 2080 ti,290
+rtx 3050,140
+rtx 3050 6gb,115
+rtx 3060,190
+rtx 3060 ti,245
+rtx 3070,290
+rtx 3070 ti,320
+rtx 3080,380
+rtx 3080 ti,430
+rtx 3090,450
+rtx 4050,190
+rtx 4060,235
+rtx 4060 ti,280
+rtx 4070,360
+rtx 4070 super,420
+rtx 4070 ti,450
+rtx 4080,560
+rtx 4090,800
+rtx 5060,290
+rtx 5060 ti,340
+rtx 5070,420
+rtx 5080,640
+rtx 5090,900
+hd 7770,24
+hd 7850,37
+hd 7870,45
+hd 7950,55
+hd 7970,65
+r7 250,18
+r7 260x,30
+r9 270,37
+r9 270x,43
+r9 280x,57
+r9 290,70
+r9 290x,77
+r9 380,47
+rx 460,55
+rx 470,90
+rx 480,105
+rx 550,40
+rx 560,55
+rx 570,95
+rx 580,105
+rx 590,120
+rx vega 56,165
+rx vega 64,185
+rx 5500 xt,100
+rx 5600 xt,150
+rx 5700,175
+rx 5700 xt,200
+rx 6400,90
+rx 6500 xt,125
+rx 6600,215
+rx 6600 xt,240
+rx 6650 xt,250
+rx 6700 xt,300
+rx 6750 xt,320
+rx 6800,370
+rx 6800 xt,420
+rx 6900 xt,470
+rx 7600,235
+rx 7600 xt,265
+rx 7700 xt,345
+rx 7800 xt,400
+rx 7900 gre,440
+rx 7900 xt,520
+rx 7900 xtx,640
+rx 9060 xt,330
+rx 9070,480
+rx 9070 xt,540
+hd graphics 4000,3
+hd graphics 4600,5
+hd graphics 530,8
+hd graphics 620,8
+uhd graphics 620,10
+uhd graphics 630,11
+uhd graphics 730,14
+uhd graphics 770,18
+iris xe,25
+iris plus,12
+radeon vega 3,8
+radeon vega 8,16
+radeon vega 11,22
+radeon 610m,5
+radeon 660m,30
+radeon 680m,45
+radeon 780m,55
+arc a380,70
+arc a580,150
+arc a750,200
+arc a770,220
+arc b570,260
+arc b580,290
+geforce 8600 gt,2
+geforce 8800 gt,4
+geforce 8800 gts,4
+geforce 8800 gtx,5
+geforce 9600 gt,4
+geforce 9800 gt,4
+gts 250,5
+gtx 260,8
+gtx 275,10
+gtx 285,11
+gtx 460,17
+gtx 560,20
+gtx 560 ti,24
+gtx 660,35
+gtx 660 ti,45
+gtx 670,55
+hd 4850,6
+hd 5770,9
+hd 6850,14
+hd 6870,17
+hd graphics family,5
+hd graphics 4200,4
+hd graphics 4400,4.5
+hd graphics 5000,7
+hd graphics 5500,6.5
+hd graphics 6000,8
+hd graphics 520,7

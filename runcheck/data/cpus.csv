@@ -1,0 +1,120 @@
+# Approximate relative gaming performance (single + multi thread blend). i5-4460 = 100. Hand-curated estimates; edit freely.
+name,score
+core 2 duo e8400,28
+core 2 quad q6600,35
+pentium g3220,45
+pentium g4560,80
+celeron n4020,25
+pentium n5030,35
+core i3-2100,55
+core i3-4130,70
+core i3-7100,115
+core i3-8100,140
+core i3-9100f,150
+core i3-10100,160
+core i3-12100,270
+core i3-13100,300
+core i5-2500k,85
+core i5-3470,85
+core i5-4460,100
+core i5-4590,105
+core i5-4690k,110
+core i5-6500,115
+core i5-6600k,130
+core i5-7500,130
+core i5-7600k,145
+core i5-8400,190
+core i5-9400f,195
+core i5-9600k,235
+core i5-10400,230
+core i5-10600k,270
+core i5-11400,260
+core i5-11600k,310
+core i5-12400,340
+core i5-12600k,420
+core i5-13400,380
+core i5-13600k,520
+core i5-14400,400
+core i5-14600k,540
+core i7-2600k,100
+core i7-3770,110
+core i7-4770,125
+core i7-4790,130
+core i7-6700,150
+core i7-6700k,160
+core i7-7700,165
+core i7-7700k,175
+core i7-8700,250
+core i7-8700k,265
+core i7-9700k,270
+core i7-10700k,320
+core i7-11700k,360
+core i7-12700k,500
+core i7-13700k,600
+core i7-14700k,650
+core i9-9900k,310
+core i9-10900k,360
+core i9-12900k,560
+core i9-13900k,700
+core i9-14900k,740
+core i5-10210u,120
+core i7-8550u,130
+core i5-1135g7,175
+core i7-1165g7,195
+core i5-1235u,230
+core i7-1255u,260
+fx-4300,65
+fx-6300,85
+fx-8350,105
+athlon 200ge,80
+athlon x4 860k,75
+ryzen 3 1200,110
+ryzen 3 3100,210
+ryzen 3 3200g,160
+ryzen 5 1600,165
+ryzen 5 2600,190
+ryzen 7 2700x,240
+ryzen 5 3600,280
+ryzen 5 3600x,295
+ryzen 7 3700x,330
+ryzen 5 4500,300
+ryzen 5 5500,340
+ryzen 5 5600,360
+ryzen 5 5600x,380
+ryzen 7 5700x,430
+ryzen 7 5800x,470
+ryzen 7 5800x3d,520
+ryzen 9 5900x,540
+ryzen 5 7600,480
+ryzen 5 7600x,500
+ryzen 7 7700x,570
+ryzen 7 7800x3d,650
+ryzen 9 7950x,780
+ryzen 5 9600x,540
+ryzen 7 9800x3d,720
+ryzen 5 3500u,125
+ryzen 5 5500u,220
+ryzen 7 5700u,260
+core 2 duo,22
+core 2 quad,35
+core i3,45
+core i5,85
+core i7,110
+core i3-4005u,38
+core i3-4010u,40
+core i3-4030u,42
+core i5-4200u,55
+core i5-4210u,58
+core i5-4300u,58
+core i7-4500u,65
+core i7-4510u,68
+core i3-5005u,50
+core i5-5200u,75
+core i3-6100u,70
+core i5-6200u,90
+core i3-7100u,75
+core i5-7200u,95
+core i5-8250u,165
+core i7-8565u,190
+pentium 3558u,35
+celeron 2955u,30
